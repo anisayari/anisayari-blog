@@ -24,12 +24,6 @@ const siteConfig: SiteConfig = {
 
 export function getSiteConfig<T>(key: string, defaultValue?: T): T {
   const value = siteConfig[key]
-  if (key == 'rootNotionPageId') {
-    console.log('--------------------HERE---------------')
-    console.log(key)
-    console.log(value)
-    console.log('--------------------HERE---------------')
-  }
 
   if (value !== undefined) {
     return value

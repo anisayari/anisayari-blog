@@ -21,6 +21,7 @@ export default siteConfig({
   twitter: 'DFintelligence',
   github: 'anisayari',
   linkedin: 'anisayari',
+  youtube : 'UCnEHCrot2HkySxMTmDPhZyg',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
